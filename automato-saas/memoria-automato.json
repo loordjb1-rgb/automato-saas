@@ -1,0 +1,2140 @@
+{
+  "versao": "0.6.1",
+  "ciclos": [
+    {
+      "id": "REG-1790198391612",
+      "cicloId": null,
+      "oportunidadeId": "OP-1790198386511-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "experimentoId": "EXP-1790198391040",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 2,
+      "acao": "EXPLORAR",
+      "motivo": "A validação atual não encontrou evidência suficiente. Procurar novas oportunidades.",
+      "resultado": {
+        "experimentoId": "OP-1790198386511-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+        "oportunidade": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T21:19:51.607Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T21:19:51.612Z"
+    },
+    {
+      "id": "REG-1790199650444",
+      "cicloId": null,
+      "oportunidadeId": "OP-1790199645040-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "experimentoId": "EXP-1790199649831",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 2,
+      "acao": "EXPLORAR",
+      "motivo": "A validação continua sem evidência suficiente. A memória registra que esta linha já foi explorada; procurar novas oportunidades sem repetir cegamente a mesma abordagem.",
+      "confianca": 100,
+      "mutacao": null,
+      "resultado": {
+        "experimentoId": "OP-1790199645040-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+        "oportunidade": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T21:40:50.440Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T21:40:50.444Z"
+    },
+    {
+      "id": "REG-1790199952664",
+      "cicloId": "CICLO-1790199942951",
+      "oportunidadeId": "OP-1790199947524-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "experimentoId": "EXP-1790199951845",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 2,
+      "acao": "EXPLORAR",
+      "motivo": "A validação continua sem evidência suficiente. A memória registra que esta linha já foi explorada; procurar novas oportunidades sem repetir cegamente a mesma abordagem.",
+      "confianca": 100,
+      "mutacao": null,
+      "resultado": {
+        "experimentoId": "OP-1790199947524-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+        "oportunidade": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T21:45:52.652Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T21:45:52.664Z"
+    },
+    {
+      "id": "REG-1790200173777",
+      "cicloId": "CICLO-1790200163273",
+      "oportunidadeId": "OP-1790200168767-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "experimentoId": "EXP-1790200173171",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 2,
+      "acao": "EXPLORAR",
+      "motivo": "A validação continua sem evidência suficiente. A memória registra que esta linha já foi explorada; procurar novas oportunidades sem repetir cegamente a mesma abordagem.",
+      "confianca": 100,
+      "mutacao": null,
+      "resultado": {
+        "experimentoId": "OP-1790200168767-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+        "oportunidade": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T21:49:33.763Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T21:49:33.777Z"
+    },
+    {
+      "id": "REG-1790200346463",
+      "cicloId": "CICLO-1790200336696",
+      "oportunidadeId": "OP-1790200342253-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "experimentoId": "EXP-1790200345824",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 2,
+      "acao": "EXPLORAR",
+      "motivo": "A validação continua sem evidência suficiente. A memória registra que esta linha já foi explorada; procurar novas oportunidades sem repetir cegamente a mesma abordagem.",
+      "confianca": 100,
+      "mutacao": null,
+      "resultado": {
+        "experimentoId": "OP-1790200342253-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+        "oportunidade": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T21:52:26.460Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T21:52:26.463Z"
+    },
+    {
+      "id": "REG-1790201127727",
+      "cicloId": "CICLO-1790201116853",
+      "oportunidadeId": "OP-1790201122747-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "experimentoId": "EXP-1790201127171",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 2,
+      "acao": "EXPLORAR",
+      "motivo": "A validação continua sem evidência suficiente. A memória registra que esta linha já foi explorada; procurar novas oportunidades sem repetir cegamente a mesma abordagem.",
+      "confianca": 100,
+      "mutacao": null,
+      "resultado": {
+        "experimentoId": "OP-1790201122747-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+        "oportunidade": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T22:05:27.723Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T22:05:27.727Z"
+    },
+    {
+      "id": "REG-1790202238257",
+      "cicloId": "CICLO-1790202226513",
+      "oportunidadeId": "OP-1790202232605-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "experimentoId": "EXP-1790202237417",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 2,
+      "acao": "EXPLORAR",
+      "motivo": "A validação continua sem evidência suficiente. A memória registra que esta linha já foi explorada; procurar novas oportunidades sem repetir cegamente a mesma abordagem.",
+      "confianca": 100,
+      "mutacao": null,
+      "resultado": {
+        "experimentoId": "OP-1790202232605-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+        "oportunidade": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T22:23:58.249Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T22:23:58.257Z"
+    },
+    {
+      "id": "REG-1790202867162",
+      "cicloId": "CICLO-1790202856006",
+      "oportunidadeId": "OP-1790202862226-looking-for-a-simpler-pdf-tool-get-a-lifetime-tool-for-just-",
+      "chave": "titulo-looking-simpler-tool-lifetime-just-during-deal-days-subscriptions-mashable",
+      "padrao": "looking|simpler|tool|lifetime|just|during",
+      "titulo": "Looking for a simpler PDF tool? Get a lifetime tool for just $23.99 during Deal Days — no subscriptions. - mashable.com",
+      "hipotese": "Investigar se existe uma oportunidade de solução digital em torno da demanda e atividade econômica detectadas.",
+      "experimentoId": "EXP-1790202866578",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 1,
+      "acao": "EXPLORAR",
+      "motivo": "A validação atual não encontrou evidência suficiente. Procurar novas oportunidades.",
+      "confianca": 0,
+      "mutacao": null,
+      "resultado": {
+        "experimentoId": "OP-1790202862226-looking-for-a-simpler-pdf-tool-get-a-lifetime-tool-for-just-",
+        "oportunidade": "Looking for a simpler PDF tool? Get a lifetime tool for just $23.99 during Deal Days — no subscriptions. - mashable.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T22:34:27.155Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T22:34:27.162Z"
+    },
+    {
+      "id": "REG-1790205457785",
+      "cicloId": "CICLO-1790205441933",
+      "oportunidadeId": "OP-1790205452352-revealed-the-israeli-startups-that-will-solve-the-world-s-ho",
+      "chave": "titulo-revealed-israeli-startups-will-solve-world-hottest-problem-israelhayom",
+      "padrao": "revealed|israeli|startups|will|solve|world",
+      "titulo": "Revealed: The Israeli startups that will solve the world’s hottest problem - www.israelhayom.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "experimentoId": "EXP-1790205456966",
+      "status": "EXECUTADO",
+      "classificacao": "SEM_EVIDENCIA",
+      "totalSinais": 1,
+      "evidencias": {
+        "radar": {
+          "forca": 0
+        },
+        "mercado": {
+          "forca": 50,
+          "decisao": "INVESTIGAR_LACUNA"
+        },
+        "investigacao": {
+          "forca": 0
+        },
+        "estrategia": {
+          "forca": 30,
+          "classificacao": "OBSERVAR"
+        },
+        "executor": {
+          "forca": 0,
+          "totalSinais": 0,
+          "classificacao": ""
+        },
+        "composta": 17,
+        "confianca": 17,
+        "conflitos": []
+      },
+      "evidenciaComposta": 17,
+      "conflitos": [],
+      "acao": "EXPLORAR",
+      "motivo": "A validação atual não encontrou evidência suficiente. Procurar novas oportunidades.",
+      "confianca": 17,
+      "mutacao": null,
+      "resultado": {
+        "experimentoId": "OP-1790205452352-revealed-the-israeli-startups-that-will-solve-the-world-s-ho",
+        "oportunidade": "Revealed: The Israeli startups that will solve the world’s hottest problem - www.israelhayom.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T23:17:37.772Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "registradoEm": "2026-09-23T23:17:37.785Z"
+    },
+    {
+      "id": "OP-1790206955343-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "cicloId": null,
+      "oportunidadeId": null,
+      "chave": "titulo-surprising-cost-manual-order-fulfillment-automate-your-raleigh-news-observer",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Raleigh News & Observer",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "experimentoId": null,
+      "status": null,
+      "classificacao": null,
+      "totalSinais": 0,
+      "evidencias": {
+        "problema": [
+          {
+            "titulo": "unexpected status 404 Not Found: Unknown error, url: https://chatgpt ...",
+            "url": "https://github.com/openai/codex/issues/28756",
+            "descricao": "What version of the Codex App are you using (From “About Codex” dialog)? 26.611.61753 What subscription do you have? Pro x20 What platform is your computer? Darwin 25.3.0 arm64 arm What issue are y...",
+            "dominio": "github.com",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          }
+        ],
+        "publico": [],
+        "demanda": [],
+        "concorrencia": [],
+        "dinheiro": [
+          {
+            "titulo": "unexpected status 404 Not Found: Unknown error, url: https://chatgpt ...",
+            "url": "https://github.com/openai/codex/issues/28756",
+            "descricao": "What version of the Codex App are you using (From “About Codex” dialog)? 26.611.61753 What subscription do you have? Pro x20 What platform is your computer? Darwin 25.3.0 arm64 arm What issue are y...",
+            "dominio": "github.com",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          }
+        ],
+        "solucao": [
+          {
+            "titulo": "unexpected status 404 Not Found: Unknown error, url: https://chatgpt ...",
+            "url": "https://github.com/openai/codex/issues/28756",
+            "descricao": "What version of the Codex App are you using (From “About Codex” dialog)? 26.611.61753 What subscription do you have? Pro x20 What platform is your computer? Darwin 25.3.0 arm64 arm What issue are y...",
+            "dominio": "github.com",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Google Maps",
+            "url": "https://maps.google.com.br/mapfiles/home3.html",
+            "descricao": "Explore Google Maps for Street View, 3D mapping, turn-by-turn directions, indoor maps and more on your devices.",
+            "dominio": "maps.google.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 0,
+              "concorrencia": 0,
+              "solucao": 1,
+              "crescimento": 0
+            },
+            "score": 20
+          },
+          {
+            "titulo": "Transit – Google Maps",
+            "url": "https://maps.google.com.br/intl/pt-BR/landing/transit/",
+            "descricao": "If you provide a transportation service that is open to the public, and operates with fixed schedules and routes, we welcome your participation - it is simple and free.",
+            "dominio": "maps.google.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 0,
+              "concorrencia": 0,
+              "solucao": 1,
+              "crescimento": 0
+            },
+            "score": 20
+          }
+        ],
+        "crescimento": []
+      },
+      "acao": null,
+      "motivo": null,
+      "confianca": 0,
+      "mutacao": null,
+      "resultado": {},
+      "registradoEm": "2026-09-23T23:42:40.242Z"
+    },
+    {
+      "id": "OP-1790266099826-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "cicloId": null,
+      "oportunidadeId": null,
+      "chave": "titulo-surprising-cost-manual-order-fulfillment-automate-your-raleigh-news-observer",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Raleigh News & Observer",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "experimentoId": null,
+      "status": null,
+      "classificacao": null,
+      "totalSinais": 0,
+      "evidencias": {
+        "problema": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          }
+        ],
+        "publico": [
+          {
+            "titulo": "Custo Brasil - OBSERVATÓRIO DO CUSTO BRASIL",
+            "url": "https://custobrasil.org.br/custobrasil/",
+            "descricao": "O Custo Brasil representa o conjunto de obstáculos estruturais, burocráticos e econômicos que elevam os custos de operação das empresas no país, comprometem a produtividade e dificultam a atração de investimentos.",
+            "dominio": "custobrasil.org.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 1,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "demanda": [],
+        "concorrencia": [],
+        "dinheiro": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo: o que significa, sinônimos e origem | Palavras",
+            "url": "https://www.palavras.co/palavra/custo",
+            "descricao": "Do latim 'costus', significando 'custo', 'despesa', 'preço'. Derivado do verbo 'constare' (estar de pé, custar, ser fixo). Possível influência do francês antigo 'cost' ou italiano 'costo'.",
+            "dominio": "palavras.co",
+            "relevancia": 2,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 34
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "solucao": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "crescimento": []
+      },
+      "acao": null,
+      "motivo": null,
+      "confianca": 0,
+      "mutacao": null,
+      "resultado": {},
+      "registradoEm": "2026-09-24T16:08:29.928Z"
+    },
+    {
+      "id": "OP-1790268356350-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "cicloId": null,
+      "oportunidadeId": null,
+      "chave": "titulo-surprising-cost-manual-order-fulfillment-automate-your-newsobserver",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "experimentoId": null,
+      "status": null,
+      "classificacao": null,
+      "totalSinais": 0,
+      "evidencias": {
+        "problema": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          }
+        ],
+        "publico": [
+          {
+            "titulo": "Custo Brasil - OBSERVATÓRIO DO CUSTO BRASIL",
+            "url": "https://custobrasil.org.br/custobrasil/",
+            "descricao": "O Custo Brasil representa o conjunto de obstáculos estruturais, burocráticos e econômicos que elevam os custos de operação das empresas no país, comprometem a produtividade e dificultam a atração de investimentos.",
+            "dominio": "custobrasil.org.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 1,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "demanda": [],
+        "concorrencia": [],
+        "dinheiro": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo: o que significa, sinônimos e origem | Palavras",
+            "url": "https://www.palavras.co/palavra/custo",
+            "descricao": "Do latim 'costus', significando 'custo', 'despesa', 'preço'. Derivado do verbo 'constare' (estar de pé, custar, ser fixo). Possível influência do francês antigo 'cost' ou italiano 'costo'.",
+            "dominio": "palavras.co",
+            "relevancia": 2,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 34
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "solucao": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "crescimento": []
+      },
+      "acao": null,
+      "motivo": null,
+      "confianca": 0,
+      "mutacao": null,
+      "resultado": {},
+      "registradoEm": "2026-09-24T16:46:06.844Z"
+    },
+    {
+      "id": "OP-1790270762022-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "cicloId": null,
+      "oportunidadeId": null,
+      "chave": "titulo-surprising-cost-manual-order-fulfillment-automate-your-raleigh-news-observer",
+      "padrao": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Raleigh News & Observer",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "experimentoId": null,
+      "status": null,
+      "classificacao": null,
+      "totalSinais": 0,
+      "evidencias": {
+        "problema": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          }
+        ],
+        "publico": [
+          {
+            "titulo": "FB, IG & Whatsapp Subscriptions Are Here! - Lowyat.NET",
+            "url": "https://forum.lowyat.net/topic/5566080",
+            "descricao": "Meta has announced the global rollout of subscription plans for Facebook, Instagram, and WhatsApp. The company also revealed that new plans aimed at Meta AI users, creators, and businesses are coming soon. The Facebook Plus and Instagram Plus subscription plans are priced at $3.99 per month, while WhatsApp Plus costs $2.99 per month. Meta clarified that these Plus subscriptions will exist ...",
+            "dominio": "forum.lowyat.net",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 5,
+              "demanda": 0,
+              "dinheiro": 4,
+              "concorrencia": 0,
+              "solucao": 1,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo Brasil - OBSERVATÓRIO DO CUSTO BRASIL",
+            "url": "https://custobrasil.org.br/custobrasil/",
+            "descricao": "O Custo Brasil representa o conjunto de obstáculos estruturais, burocráticos e econômicos que elevam os custos de operação das empresas no país, comprometem a produtividade e dificultam a atração de investimentos.",
+            "dominio": "custobrasil.org.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 1,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "demanda": [],
+        "concorrencia": [],
+        "dinheiro": [
+          {
+            "titulo": "FB, IG & Whatsapp Subscriptions Are Here! - Lowyat.NET",
+            "url": "https://forum.lowyat.net/topic/5566080",
+            "descricao": "Meta has announced the global rollout of subscription plans for Facebook, Instagram, and WhatsApp. The company also revealed that new plans aimed at Meta AI users, creators, and businesses are coming soon. The Facebook Plus and Instagram Plus subscription plans are priced at $3.99 per month, while WhatsApp Plus costs $2.99 per month. Meta clarified that these Plus subscriptions will exist ...",
+            "dominio": "forum.lowyat.net",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 5,
+              "demanda": 0,
+              "dinheiro": 4,
+              "concorrencia": 0,
+              "solucao": 1,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo: o que significa, sinônimos e origem | Palavras",
+            "url": "https://www.palavras.co/palavra/custo",
+            "descricao": "Do latim 'costus', significando 'custo', 'despesa', 'preço'. Derivado do verbo 'constare' (estar de pé, custar, ser fixo). Possível influência do francês antigo 'cost' ou italiano 'costo'.",
+            "dominio": "palavras.co",
+            "relevancia": 2,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 34
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "solucao": [
+          {
+            "titulo": "FB, IG & Whatsapp Subscriptions Are Here! - Lowyat.NET",
+            "url": "https://forum.lowyat.net/topic/5566080",
+            "descricao": "Meta has announced the global rollout of subscription plans for Facebook, Instagram, and WhatsApp. The company also revealed that new plans aimed at Meta AI users, creators, and businesses are coming soon. The Facebook Plus and Instagram Plus subscription plans are priced at $3.99 per month, while WhatsApp Plus costs $2.99 per month. Meta clarified that these Plus subscriptions will exist ...",
+            "dominio": "forum.lowyat.net",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 5,
+              "demanda": 0,
+              "dinheiro": 4,
+              "concorrencia": 0,
+              "solucao": 1,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "crescimento": []
+      },
+      "acao": null,
+      "motivo": null,
+      "confianca": 0,
+      "mutacao": null,
+      "resultado": {},
+      "registradoEm": "2026-09-24T17:26:08.231Z"
+    }
+  ],
+  "oportunidades": {
+    "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema": {
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "ciclos": 8,
+      "sucessos": 7,
+      "falhas": 0,
+      "continuar": 0,
+      "mutar": 0,
+      "investigar": 0,
+      "matar": 0,
+      "explorar": 7,
+      "escalar": 0,
+      "ultimaAcao": null,
+      "ultimaClassificacao": null,
+      "ultimoResultado": {},
+      "primeiraObservacao": "2026-09-23T21:19:51.612Z",
+      "ultimaObservacao": "2026-09-24T16:46:06.844Z",
+      "ultimoMotivo": null,
+      "ultimaConfianca": 0,
+      "ultimaEvidencias": {
+        "problema": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          }
+        ],
+        "publico": [
+          {
+            "titulo": "Custo Brasil - OBSERVATÓRIO DO CUSTO BRASIL",
+            "url": "https://custobrasil.org.br/custobrasil/",
+            "descricao": "O Custo Brasil representa o conjunto de obstáculos estruturais, burocráticos e econômicos que elevam os custos de operação das empresas no país, comprometem a produtividade e dificultam a atração de investimentos.",
+            "dominio": "custobrasil.org.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 1,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "demanda": [],
+        "concorrencia": [],
+        "dinheiro": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo: o que significa, sinônimos e origem | Palavras",
+            "url": "https://www.palavras.co/palavra/custo",
+            "descricao": "Do latim 'costus', significando 'custo', 'despesa', 'preço'. Derivado do verbo 'constare' (estar de pé, custar, ser fixo). Possível influência do francês antigo 'cost' ou italiano 'costo'.",
+            "dominio": "palavras.co",
+            "relevancia": 2,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 34
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "solucao": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "crescimento": []
+      }
+    },
+    "titulo-looking-simpler-tool-lifetime-just-during-deal-days-subscriptions-mashable": {
+      "chave": "titulo-looking-simpler-tool-lifetime-just-during-deal-days-subscriptions-mashable",
+      "titulo": "Looking for a simpler PDF tool? Get a lifetime tool for just $23.99 during Deal Days — no subscriptions. - mashable.com",
+      "hipotese": "Investigar se existe uma oportunidade de solução digital em torno da demanda e atividade econômica detectadas.",
+      "ciclos": 1,
+      "sucessos": 1,
+      "falhas": 0,
+      "continuar": 0,
+      "mutar": 0,
+      "investigar": 0,
+      "matar": 0,
+      "explorar": 1,
+      "escalar": 0,
+      "ultimaAcao": "EXPLORAR",
+      "ultimoMotivo": "A validação atual não encontrou evidência suficiente. Procurar novas oportunidades.",
+      "ultimaClassificacao": "SEM_EVIDENCIA",
+      "ultimoResultado": {
+        "experimentoId": "OP-1790202862226-looking-for-a-simpler-pdf-tool-get-a-lifetime-tool-for-just-",
+        "oportunidade": "Looking for a simpler PDF tool? Get a lifetime tool for just $23.99 during Deal Days — no subscriptions. - mashable.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T22:34:27.155Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "ultimaConfianca": 0,
+      "primeiraObservacao": "2026-09-23T22:34:27.162Z",
+      "ultimaObservacao": "2026-09-23T22:34:27.162Z"
+    },
+    "titulo-revealed-israeli-startups-will-solve-world-hottest-problem-israelhayom": {
+      "chave": "titulo-revealed-israeli-startups-will-solve-world-hottest-problem-israelhayom",
+      "titulo": "Revealed: The Israeli startups that will solve the world’s hottest problem - www.israelhayom.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "ciclos": 1,
+      "sucessos": 0,
+      "falhas": 0,
+      "continuar": 0,
+      "mutar": 0,
+      "investigar": 0,
+      "matar": 0,
+      "explorar": 1,
+      "escalar": 0,
+      "ultimaAcao": "EXPLORAR",
+      "ultimoMotivo": "A validação atual não encontrou evidência suficiente. Procurar novas oportunidades.",
+      "ultimaClassificacao": "SEM_EVIDENCIA",
+      "ultimoResultado": {
+        "experimentoId": "OP-1790205452352-revealed-the-israeli-startups-that-will-solve-the-world-s-ho",
+        "oportunidade": "Revealed: The Israeli startups that will solve the world’s hottest problem - www.israelhayom.com",
+        "status": "NOVA",
+        "tipo": "VALIDACAO_EVIDENCIA",
+        "metricas": {
+          "fonteAcessivel": false,
+          "statusHttp": 0,
+          "tempoResposta": 0,
+          "tamanhoConteudo": 0,
+          "totalSinais": 0,
+          "problema": 0,
+          "demanda": 0,
+          "dinheiro": 0,
+          "crescimento": 0,
+          "solucao": 0,
+          "automacao": 0
+        },
+        "criadoEm": "2026-09-23T23:17:37.772Z",
+        "forcaEvidencia": 0,
+        "decisao": "REPETIR",
+        "motivo": "A fonte não pôde ser validada."
+      },
+      "ultimaConfianca": 17,
+      "ultimaEvidenciaComposta": 17,
+      "primeiraObservacao": "2026-09-23T23:17:37.786Z",
+      "ultimaObservacao": "2026-09-23T23:17:37.785Z",
+      "ultimaEvidencias": {
+        "radar": {
+          "forca": 0
+        },
+        "mercado": {
+          "forca": 50,
+          "decisao": "INVESTIGAR_LACUNA"
+        },
+        "investigacao": {
+          "forca": 0
+        },
+        "estrategia": {
+          "forca": 30,
+          "classificacao": "OBSERVAR"
+        },
+        "executor": {
+          "forca": 0,
+          "totalSinais": 0,
+          "classificacao": ""
+        },
+        "composta": 17,
+        "confianca": 17,
+        "conflitos": []
+      }
+    },
+    "titulo-surprising-cost-manual-order-fulfillment-automate-your-raleigh-news-observer": {
+      "chave": "titulo-surprising-cost-manual-order-fulfillment-automate-your-raleigh-news-observer",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Raleigh News & Observer",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "ciclos": 3,
+      "sucessos": 0,
+      "falhas": 0,
+      "continuar": 0,
+      "mutar": 0,
+      "investigar": 0,
+      "matar": 0,
+      "explorar": 0,
+      "escalar": 0,
+      "ultimaAcao": null,
+      "ultimoMotivo": null,
+      "ultimaClassificacao": null,
+      "ultimoResultado": {},
+      "ultimaConfianca": 0,
+      "primeiraObservacao": "2026-09-23T23:42:40.243Z",
+      "ultimaObservacao": "2026-09-24T17:26:08.231Z",
+      "ultimaEvidencias": {
+        "problema": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          }
+        ],
+        "publico": [
+          {
+            "titulo": "FB, IG & Whatsapp Subscriptions Are Here! - Lowyat.NET",
+            "url": "https://forum.lowyat.net/topic/5566080",
+            "descricao": "Meta has announced the global rollout of subscription plans for Facebook, Instagram, and WhatsApp. The company also revealed that new plans aimed at Meta AI users, creators, and businesses are coming soon. The Facebook Plus and Instagram Plus subscription plans are priced at $3.99 per month, while WhatsApp Plus costs $2.99 per month. Meta clarified that these Plus subscriptions will exist ...",
+            "dominio": "forum.lowyat.net",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 5,
+              "demanda": 0,
+              "dinheiro": 4,
+              "concorrencia": 0,
+              "solucao": 1,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo Brasil - OBSERVATÓRIO DO CUSTO BRASIL",
+            "url": "https://custobrasil.org.br/custobrasil/",
+            "descricao": "O Custo Brasil representa o conjunto de obstáculos estruturais, burocráticos e econômicos que elevam os custos de operação das empresas no país, comprometem a produtividade e dificultam a atração de investimentos.",
+            "dominio": "custobrasil.org.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 1,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "demanda": [],
+        "concorrencia": [],
+        "dinheiro": [
+          {
+            "titulo": "FB, IG & Whatsapp Subscriptions Are Here! - Lowyat.NET",
+            "url": "https://forum.lowyat.net/topic/5566080",
+            "descricao": "Meta has announced the global rollout of subscription plans for Facebook, Instagram, and WhatsApp. The company also revealed that new plans aimed at Meta AI users, creators, and businesses are coming soon. The Facebook Plus and Instagram Plus subscription plans are priced at $3.99 per month, while WhatsApp Plus costs $2.99 per month. Meta clarified that these Plus subscriptions will exist ...",
+            "dominio": "forum.lowyat.net",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 5,
+              "demanda": 0,
+              "dinheiro": 4,
+              "concorrencia": 0,
+              "solucao": 1,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo: o que significa, sinônimos e origem | Palavras",
+            "url": "https://www.palavras.co/palavra/custo",
+            "descricao": "Do latim 'costus', significando 'custo', 'despesa', 'preço'. Derivado do verbo 'constare' (estar de pé, custar, ser fixo). Possível influência do francês antigo 'cost' ou italiano 'costo'.",
+            "dominio": "palavras.co",
+            "relevancia": 2,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 34
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "solucao": [
+          {
+            "titulo": "FB, IG & Whatsapp Subscriptions Are Here! - Lowyat.NET",
+            "url": "https://forum.lowyat.net/topic/5566080",
+            "descricao": "Meta has announced the global rollout of subscription plans for Facebook, Instagram, and WhatsApp. The company also revealed that new plans aimed at Meta AI users, creators, and businesses are coming soon. The Facebook Plus and Instagram Plus subscription plans are priced at $3.99 per month, while WhatsApp Plus costs $2.99 per month. Meta clarified that these Plus subscriptions will exist ...",
+            "dominio": "forum.lowyat.net",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 5,
+              "demanda": 0,
+              "dinheiro": 4,
+              "concorrencia": 0,
+              "solucao": 1,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "crescimento": []
+      }
+    },
+    "titulo-surprising-cost-manual-order-fulfillment-automate-your-newsobserver": {
+      "chave": "surprising-cost-manual-order-fulfillment-automate-your-newsobserver-investigar-problema",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "ciclos": 8,
+      "sucessos": 7,
+      "falhas": 0,
+      "continuar": 0,
+      "mutar": 0,
+      "investigar": 0,
+      "matar": 0,
+      "explorar": 7,
+      "escalar": 0,
+      "ultimaAcao": null,
+      "ultimaClassificacao": null,
+      "ultimoResultado": {},
+      "primeiraObservacao": "2026-09-23T21:19:51.612Z",
+      "ultimaObservacao": "2026-09-24T16:46:06.844Z",
+      "ultimoMotivo": null,
+      "ultimaConfianca": 0,
+      "ultimaEvidencias": {
+        "problema": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          }
+        ],
+        "publico": [
+          {
+            "titulo": "Custo Brasil - OBSERVATÓRIO DO CUSTO BRASIL",
+            "url": "https://custobrasil.org.br/custobrasil/",
+            "descricao": "O Custo Brasil representa o conjunto de obstáculos estruturais, burocráticos e econômicos que elevam os custos de operação das empresas no país, comprometem a produtividade e dificultam a atração de investimentos.",
+            "dominio": "custobrasil.org.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 1,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "demanda": [],
+        "concorrencia": [],
+        "dinheiro": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo: o que significa, sinônimos e origem | Palavras",
+            "url": "https://www.palavras.co/palavra/custo",
+            "descricao": "Do latim 'costus', significando 'custo', 'despesa', 'preço'. Derivado do verbo 'constare' (estar de pé, custar, ser fixo). Possível influência do francês antigo 'cost' ou italiano 'costo'.",
+            "dominio": "palavras.co",
+            "relevancia": 2,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 0,
+              "crescimento": 0
+            },
+            "score": 34
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "solucao": [
+          {
+            "titulo": "Diferença entre custo e despesa: classifique corretamente para não ...",
+            "url": "https://www.serasaexperian.com.br/conteudos/diferenca-entre-custo-e-despesa/",
+            "descricao": "Na contabilidade, custo é todo gasto diretamente vinculado à produção do que se vende — seja um produto, seja um serviço. Por isso, compreenda custo como um tipo de investimento direto no que será entregue ao consumidor.",
+            "dominio": "serasaexperian.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 1,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 38
+          },
+          {
+            "titulo": "Custo - O que é, conceito e definição",
+            "url": "https://conceito.de/custo",
+            "descricao": "O custo é o gasto económico que representa a fabricação de um produto ou a prestação de um serviço. Ao estabelecer o custo de produção, é possível determinar o preço de venda ao público do bem em questão (o preço ao público é a soma do custo mais o lucro).",
+            "dominio": "conceito.de",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 3,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "Custo e despesa: entenda qual é a diferença - Suno",
+            "url": "https://www.suno.com.br/artigos/custos-despesas/",
+            "descricao": "O custo é um gasto diretamente relacionado à produção de bens ou serviços. Ele faz parte do processo produtivo e, sem esses gastos, a empresa não consegue fabricar seus produtos nem operar suas atividades essenciais.",
+            "dominio": "suno.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 1,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          },
+          {
+            "titulo": "O que é preço de custo e como calcular para o seu negócio?",
+            "url": "https://www.nuvemshop.com.br/blog/preco-de-custo/",
+            "descricao": "Preço de custo é o valor total dos recursos financeiros que uma empresa gasta na produção de um produto ou serviço. Para calcular é necessário levar em consideração os custos diretos, indiretos, fixos e variáveis ligados à produção.",
+            "dominio": "nuvemshop.com.br",
+            "relevancia": 1,
+            "sinais": {
+              "problema": 0,
+              "publico": 0,
+              "demanda": 0,
+              "dinheiro": 2,
+              "concorrencia": 0,
+              "solucao": 2,
+              "crescimento": 0
+            },
+            "score": 30
+          }
+        ],
+        "crescimento": []
+      }
+    }
+  },
+  "estatisticas": {
+    "ciclos": 13,
+    "concluidos": 0,
+    "descartados": 0,
+    "repetidos": 0,
+    "investigacoes": 0,
+    "executados": 9,
+    "falhas": 0,
+    "continuar": 0,
+    "mutar": 0,
+    "investigar": 0,
+    "matar": 0,
+    "explorar": 8,
+    "escalados": 0,
+    "ultimaAcao": null,
+    "ultimoCicloId": null,
+    "ultimaAtualizacao": "2026-09-24T17:26:08.231Z"
+  },
+  "hipoteses": {
+    "investigar se o problema identificado possui clientes dispostos a pagar por uma solucao": {
+      "chave": "investigar se o problema identificado possui clientes dispostos a pagar por uma solucao",
+      "texto": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "ciclos": 8,
+      "sucessos": 7,
+      "falhas": 0,
+      "ultimaAcao": "EXPLORAR",
+      "confianca": 100
+    },
+    "investigar se existe uma oportunidade de solucao digital em torno da demanda e atividade economica detectadas": {
+      "chave": "investigar se existe uma oportunidade de solucao digital em torno da demanda e atividade economica detectadas",
+      "texto": "Investigar se existe uma oportunidade de solução digital em torno da demanda e atividade econômica detectadas.",
+      "ciclos": 1,
+      "sucessos": 1,
+      "falhas": 0,
+      "ultimaAcao": "EXPLORAR",
+      "confianca": 100
+    },
+    "existe dor associada a custo ou dinheiro investigar uma solucao que reduza custo ou gere receita": {
+      "chave": "existe dor associada a custo ou dinheiro investigar uma solucao que reduza custo ou gere receita",
+      "texto": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "ciclos": 4,
+      "sucessos": 0,
+      "falhas": 0,
+      "ultimaAcao": null,
+      "confianca": 0
+    }
+  },
+  "padroes": {
+    "surprising|cost|manual|order|fulfillment|automate": {
+      "chave": "surprising|cost|manual|order|fulfillment|automate",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "sinais": {
+        "demanda": 0,
+        "problema": 0,
+        "dinheiro": 0,
+        "solucoes": 0,
+        "concorrencia": 0,
+        "crescimento": 0
+      },
+      "ciclos": 11,
+      "sucessos": 7,
+      "falhas": 0,
+      "continuar": 0,
+      "mutar": 0,
+      "investigar": 0,
+      "matar": 0,
+      "explorar": 7,
+      "escalar": 0,
+      "forca": 64,
+      "ultimaAcao": null,
+      "ultimaObservacao": "2026-09-24T17:26:08.231Z"
+    },
+    "looking|simpler|tool|lifetime|just|during": {
+      "chave": "looking|simpler|tool|lifetime|just|during",
+      "titulo": "Looking for a simpler PDF tool? Get a lifetime tool for just $23.99 during Deal Days — no subscriptions. - mashable.com",
+      "hipotese": "Investigar se existe uma oportunidade de solução digital em torno da demanda e atividade econômica detectadas.",
+      "sinais": {
+        "demanda": 0,
+        "problema": 0,
+        "dinheiro": 0,
+        "solucoes": 0,
+        "concorrencia": 0,
+        "crescimento": 0
+      },
+      "ciclos": 1,
+      "sucessos": 1,
+      "falhas": 0,
+      "continuar": 0,
+      "mutar": 0,
+      "investigar": 0,
+      "matar": 0,
+      "explorar": 1,
+      "escalar": 0,
+      "forca": 100,
+      "ultimaAcao": "EXPLORAR",
+      "ultimaObservacao": "2026-09-23T22:34:27.162Z"
+    },
+    "revealed|israeli|startups|will|solve|world": {
+      "chave": "revealed|israeli|startups|will|solve|world",
+      "titulo": "Revealed: The Israeli startups that will solve the world’s hottest problem - www.israelhayom.com",
+      "hipotese": "Investigar se o problema identificado possui clientes dispostos a pagar por uma solução.",
+      "sinais": {
+        "demanda": 0,
+        "problema": 0,
+        "dinheiro": 0,
+        "solucoes": 0,
+        "concorrencia": 0,
+        "crescimento": 0
+      },
+      "ciclos": 1,
+      "sucessos": 0,
+      "falhas": 0,
+      "continuar": 0,
+      "mutar": 0,
+      "investigar": 0,
+      "matar": 0,
+      "explorar": 1,
+      "escalar": 0,
+      "forca": 0,
+      "ultimaAcao": "EXPLORAR",
+      "ultimaObservacao": "2026-09-23T23:17:37.785Z"
+    }
+  },
+  "atualizadoEm": "2026-09-24T17:26:08.232Z"
+}

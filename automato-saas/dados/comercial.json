@@ -1,0 +1,434 @@
+{
+  "versao": "1.0",
+  "criadoEm": "2026-09-24T20:26:01.646Z",
+  "atualizadoEm": "2026-09-25T19:02:36.130Z",
+  "ofertas": [],
+  "leads": [],
+  "vendas": [],
+  "receitas": [],
+  "fila": [
+    {
+      "id": "FILA-1790281592925-z2oj0q",
+      "oportunidadeId": "OP-1790281587929-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Fresno Bee",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "EXPERIMENTAR",
+        "proximoEstado": "TESTAR_EXECUCAO",
+        "composto": 47,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 60,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "investigador": {
+            "forca": 30,
+            "totalSinais": 3,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 47/100. Radar 85/100. Mercado 60/100. Investigador 30/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: EXPERIMENTAR. Próximo estado: TESTAR_EXECUCAO."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-24T20:26:32.925Z",
+      "atualizadoEm": "2026-09-24T20:26:32.925Z"
+    },
+    {
+      "id": "FILA-1790282114205-padawk",
+      "oportunidadeId": "OP-1790282109348-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Fresno Bee",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "EXPERIMENTAR",
+        "proximoEstado": "TESTAR_EXECUCAO",
+        "composto": 47,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 60,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "investigador": {
+            "forca": 30,
+            "totalSinais": 3,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 47/100. Radar 85/100. Mercado 60/100. Investigador 30/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: EXPERIMENTAR. Próximo estado: TESTAR_EXECUCAO."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-24T20:35:14.205Z",
+      "atualizadoEm": "2026-09-24T20:35:14.205Z"
+    },
+    {
+      "id": "FILA-1790283314757-8rcz3f",
+      "oportunidadeId": "OP-1790283309630-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Fresno Bee",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "EXPERIMENTAR",
+        "proximoEstado": "TESTAR_EXECUCAO",
+        "composto": 47,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 60,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "investigador": {
+            "forca": 30,
+            "totalSinais": 3,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 47/100. Radar 85/100. Mercado 60/100. Investigador 30/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: EXPERIMENTAR. Próximo estado: TESTAR_EXECUCAO."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-24T20:55:14.757Z",
+      "atualizadoEm": "2026-09-24T20:55:14.757Z"
+    },
+    {
+      "id": "FILA-1790286874535-6tu5ky",
+      "oportunidadeId": "OP-1790286870210-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Fresno Bee",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "EXPERIMENTAR",
+        "proximoEstado": "TESTAR_EXECUCAO",
+        "composto": 47,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 60,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "investigador": {
+            "forca": 30,
+            "totalSinais": 3,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 47/100. Radar 85/100. Mercado 60/100. Investigador 30/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: EXPERIMENTAR. Próximo estado: TESTAR_EXECUCAO."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-24T21:54:34.535Z",
+      "atualizadoEm": "2026-09-24T21:54:34.536Z"
+    },
+    {
+      "id": "FILA-1790289897571-uwleu4",
+      "oportunidadeId": "OP-1790289891634-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Raleigh News & Observer",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "EXPERIMENTAR",
+        "proximoEstado": "TESTAR_EXECUCAO",
+        "composto": 47,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 60,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "investigador": {
+            "forca": 30,
+            "totalSinais": 3,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 47/100. Radar 85/100. Mercado 60/100. Investigador 30/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: EXPERIMENTAR. Próximo estado: TESTAR_EXECUCAO."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-24T22:44:57.571Z",
+      "atualizadoEm": "2026-09-24T22:44:57.571Z"
+    },
+    {
+      "id": "FILA-1790291123453-4l4ic8",
+      "oportunidadeId": "OP-1790291116465-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Raleigh News & Observer",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "INVESTIGAR",
+        "proximoEstado": "VALIDAR_EVIDENCIA",
+        "composto": 55,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 90,
+            "decisao": "VALIDAR_IDEA"
+          },
+          "investigador": {
+            "forca": 30,
+            "totalSinais": 3,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 55/100. Radar 85/100. Mercado 90/100. Investigador 30/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: INVESTIGAR. Próximo estado: VALIDAR_EVIDENCIA."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-24T23:05:23.453Z",
+      "atualizadoEm": "2026-09-24T23:05:23.453Z"
+    },
+    {
+      "id": "FILA-1790335002799-dh5dkt",
+      "oportunidadeId": "OP-1790334993938-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - newsobserver.com",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "INVESTIGAR",
+        "proximoEstado": "VALIDAR_EVIDENCIA",
+        "composto": 51,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 75,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "investigador": {
+            "forca": 30,
+            "totalSinais": 3,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 51/100. Radar 85/100. Mercado 75/100. Investigador 30/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: INVESTIGAR. Próximo estado: VALIDAR_EVIDENCIA."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-25T11:16:42.800Z",
+      "atualizadoEm": "2026-09-25T11:16:42.800Z"
+    },
+    {
+      "id": "FILA-1790342588534-xz9860",
+      "oportunidadeId": "OP-1790342580817-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Fresno Bee",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "INVESTIGAR",
+        "proximoEstado": "VALIDAR_EVIDENCIA",
+        "composto": 51,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 75,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "investigador": {
+            "forca": 30,
+            "totalSinais": 3,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 51/100. Radar 85/100. Mercado 75/100. Investigador 30/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: INVESTIGAR. Próximo estado: VALIDAR_EVIDENCIA."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-25T13:23:08.534Z",
+      "atualizadoEm": "2026-09-25T13:23:08.534Z"
+    },
+    {
+      "id": "FILA-1790362956129-y5rry2",
+      "oportunidadeId": "OP-1790362946684-the-surprising-cost-of-manual-order-fulfillment-and-how-to-a",
+      "titulo": "The surprising cost of manual order fulfillment, and how to automate your way out - Fresno Bee",
+      "fonte": "Google News — Automation",
+      "pontuacao": 85,
+      "modelo": "",
+      "hipotese": "Existe dor associada a custo ou dinheiro. Investigar uma solução que reduza custo ou gere receita.",
+      "plano": {
+        "acao": "EXPERIMENTAR",
+        "proximoEstado": "TESTAR_EXECUCAO",
+        "composto": 59,
+        "conflitos": [
+          "ESTRATEGIA_FORTE_EXECUCAO_FRACA"
+        ],
+        "evidencias": {
+          "radar": {
+            "forca": 85,
+            "decisao": null
+          },
+          "mercado": {
+            "forca": 75,
+            "decisao": "INVESTIGAR_LACUNA"
+          },
+          "investigador": {
+            "forca": 85,
+            "totalSinais": 0,
+            "decisao": "REPETIR"
+          },
+          "estrategia": {
+            "forca": 85,
+            "decisao": null
+          },
+          "executor": {
+            "forca": 8,
+            "totalSinais": 2,
+            "classificacao": "SEM_EVIDENCIA",
+            "decisao": null
+          }
+        },
+        "justificativa": "Composto 59/100. Radar 85/100. Mercado 75/100. Investigador 85/100. Estratégia 85/100. Executor 8/100. 2 sinais detectados pelo executor. Conflitos: ESTRATEGIA_FORTE_EXECUCAO_FRACA. Ação: EXPERIMENTAR. Próximo estado: TESTAR_EXECUCAO."
+      },
+      "status": "AGUARDANDO_EXPERIMENTO",
+      "criadaEm": "2026-09-25T19:02:36.129Z",
+      "atualizadoEm": "2026-09-25T19:02:36.129Z"
+    }
+  ],
+  "estatisticas": {
+    "ofertasCriadas": 0,
+    "ofertasAtivas": 0,
+    "leads": 0,
+    "vendas": 0,
+    "receitaTotal": 0,
+    "ticketMedio": 0,
+    "taxaConversao": 0
+  }
+}

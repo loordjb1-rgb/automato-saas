@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Painel do Cliente</title>
+    <style>
+        body { font-family: sans-serif; background: #222; color: #fff; padding: 20px; }
+        .card { background: #333; padding: 20px; margin: 10px 0; border-radius: 8px; }
+        .btn-run { background: #00ff88; color: #000; padding: 10px 20px; border: none; cursor: pointer; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Painel do Assinante</h1>
+    <input type="email" id="userEmail" placeholder="Confirme seu e-mail de assinatura">
+    <button class="btn-run" onclick="rodarRobo()">🚀 Gerar Novo Produto</button>
+    
+    <div id="status"></div>
+    <div id="resultados"></div>
+
+    <script>
+        async function rodarRobo() {
+            const email = document.getElementById('userEmail').value;
+            const statusDiv = document.getElementById('status');
+            statusDiv.innerHTML = "⏳ Rodando... aguarde.";
+
+            const res = await fetch('/api/run', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ email })
+            });
+            
+            const data = await res.json();
+            if(data.sucesso) {
+                statusDiv.innerHTML = "✅ Produto gerado com sucesso!";
+                carregarResultados(email);
+            } else {
+                statusDiv.innerHTML = "❌ Erro: " + data.error;
+            }
+        }
+
+        async function carregarResultados(email) {
+            // Lógica para buscar resultados via GET /api/status
+            // (Implementação simplificada para exemplo)
+        }
+    </script>
+</body>
+</html>
