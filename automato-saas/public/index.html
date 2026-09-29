@@ -1,37 +1,58 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Autômato SaaS - Renda Automática</title>
-    <style>
-        body { font-family: sans-serif; background: #111; color: #fff; text-align: center; padding: 50px; }
-        h1 { color: #00ff88; }
-        .btn { background: #00ff88; color: #000; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; cursor: pointer; border: none; font-size: 18px; }
-        input { padding: 10px; width: 300px; margin-right: 10px; }
-    </style>
-</head>
-<body>
-    <h1>🤖 Autômato SaaS</h1>
-    <p>Gere produtos digitais e renda enquanto dorme.</p>
-    
-    <div id="login-area">
-        <input type="email" id="email" placeholder="Seu melhor e-mail">
-        <button class="btn" onclick="assinar()">Assinar (R$ 29/mês)</button>
-    </div>
+<div id="login-area">
+    <input type="email" id="email" placeholder="Seu melhor e-mail">
+    <button class="btn" id="btn-assinar" onclick="assinar()">Assinar (R$ 29/mês)</button>
+</div>
 
-    <script>
-        async function assinar() {
-            const email = document.getElementById('email').value;
-            if(!email) return alert('Digite seu e-mail');
+<div id="mensagem"></div>
+
+<script>
+    // ⚠️ IMPORTANTE: Substitua pela URL do seu backend no Render
+    const API_URL = 'https://SEU_BACKEND.onrender.com';
+    
+    async function assinar() {
+        const email = document.getElementById('email').value;
+        const btn = document.getElementById('btn-assinar');
+        const msg = document.getElementById('mensagem');
+        
+        if(!email) {
+            msg.innerHTML = '<p class="error">❌ Digite seu e-mail</p>';
+            return;
+        }
+        
+        // Validação básica de email
+        if(!email.includes('@') || !email.includes('.')) {
+            msg.innerHTML = '<p class="error">❌ E-mail inválido</p>';
+            return;
+        }
+        
+        btn.disabled = true;
+        btn.innerText = 'Gerando link...';
+        msg.innerHTML = '';
+        
+        try {
+            console.log('Tentando conectar com:', API_URL + '/api/subscribe');
             
-            const res = await fetch('/api/subscribe', {
+            const res = await fetch(API_URL + '/api/subscribe', {
                 method: 'POST',
                 headers: {'Content-Type': 'application/json'},
                 body: JSON.stringify({ email })
             });
+            
             const data = await res.json();
-            if(data.url) window.location.href = data.url;
+            
+            if(data.url) {
+                msg.innerHTML = '<p class="success">✅ Redirecionando para pagamento...</p>';
+                setTimeout(() => {
+                    window.location.href = data.url;
+                }, 1000);
+            } else {
+                throw new Error(data.error || 'Erro ao gerar link de pagamento');
+            }
+        } catch (erro) {
+            console.error('Erro:', erro);
+            msg.innerHTML = `<p class="error">❌ Erro: ${erro.message}</p>`;
+            btn.disabled = false;
+            btn.innerText = 'Assinar (R$ 29/mês)';
         }
-    </script>
-</body>
-</html>
+    }
+</script>
